@@ -1,0 +1,17 @@
+[
+    {
+      "nombre" : "Yesenia",
+      "apellidoPaterno" : "Hernandez",
+      "apellidoMaterno" : "Mendoza"
+      },
+    {
+      "nombre" : "Sandra",
+      "apellidoPaterno" : "Guerrero",
+      "apellidoMaterno" : "Flores"
+      },
+    {
+      "nombre" : "Laura",
+      "apellidoPaterno" : "Herrera",
+      "apellidoMaterno" : "Gomez"
+      }
+  ]
